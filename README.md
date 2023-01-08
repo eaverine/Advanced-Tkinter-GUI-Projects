@@ -1,2 +1,3 @@
 # Advanced-Tkinter-GUI-Projects
-Some advanced GUI applications I built using Tkinter
+
+The projects here were built by following Bhaskar Chaudhary - Tkinter GUI application development blueprints
